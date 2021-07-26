@@ -1,3 +1,3 @@
-.nav-main .nav-files {
-	display: none;
+.ee-sidebar .ee-sidebar__items .ee-sidebar__items-section .ee-sidebar__item[title=Files] {
+    display: none;
 }
